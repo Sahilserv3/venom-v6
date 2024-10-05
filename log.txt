@@ -1,0 +1,19 @@
+UserID: 6009363155 | Time: 2024-10-05 12:18:52.420915 | Command: /bgmi | Target: 20.198.111.53 | Port: 22287 | Time: 60
+Username: @Selffiisshh_Person
+Target: 20.198.111.53
+Port: 22287
+Time: 60
+
+UserID: 6009363155 | Time: 2024-10-05 12:37:09.146946 | Command: /bgmi | Target: 20.219.111.134 | Port: 20798 | Time: 60
+Username: @Selffiisshh_Person
+Target: 20.219.111.134
+Port: 20798
+Time: 60
+
+UserID: 5303614155 | Time: 2024-10-05 12:47:26.606521 | Command: /bgmi | Target: 20.204.191.184 | Port: 10128 | Time: 200
+Username: UserID: 5303614155
+Target: 20.204.191.184
+Port: 10128
+Time: 200
+
+UserID: 5303614155 | Time: 2024-10-05 12:48:59.513833 | Command: /bgmi | Target: 20.204.191.184 | Port: 10128 | Time: 200
